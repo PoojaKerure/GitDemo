@@ -108,6 +108,8 @@
 # print("name:{0} age:{1} sal{2}".format(name,age,sal))
 # print("name:{0} age:{0} sal{0}".format(name,age,sal))
 
+print("Testing")
+
 
 
 
